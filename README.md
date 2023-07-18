@@ -1,2 +1,0 @@
-# WDEV-MAYO2023
-Proyecto VLA
